@@ -1,2 +1,4 @@
 # audio-loss-checker
-simple cli tool to check lossless audio file
+simple cli tool to check whether a lossless audio file is really a lossless file
+
+
